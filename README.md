@@ -1,4 +1,4 @@
-# minor_project
+# razorplay_flutter
 
 A new Flutter project.
 
