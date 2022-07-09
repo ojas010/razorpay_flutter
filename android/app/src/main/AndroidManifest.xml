@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.minor.minor_project">
    <application
-        android:label="minor_project"
+        android:label="razorpay_flutter"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
